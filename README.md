@@ -9,7 +9,6 @@ Using EXPO.
 `yarn install`
 
 ### Run
-//  http://localhost:19002
 `yarn start`    
 - Run in iOS simulator (xcode)
 - Run in Android simulator (Android Studio)

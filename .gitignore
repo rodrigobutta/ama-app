@@ -12,6 +12,10 @@ web-build/
 web-report/
 .expo 
 .expo-shared
-.vscode
+
 # macOS
 .DS_Store
+
+# VCODE Debugger Lauch
+.vscode
+!.vscode/launch.json
